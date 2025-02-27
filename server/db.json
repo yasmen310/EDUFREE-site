@@ -16,7 +16,7 @@
       "id": 1,
       "title": "Dasar Pemrograman WEB",
       "description": "Materi pembelajaran mengenai pembuatan website tingkat pemula",
-      "image": "../src/assets/IMGS/unsplash_m_HRfLhgABo.png",
+      "image": "http://localhost:3001/images/unsplash_m_HRfLhgABo.png",
       "duration": "4.5 Jam",
       "videos": 20,
       "students": 1900,
