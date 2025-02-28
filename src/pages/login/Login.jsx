@@ -5,6 +5,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import image from '../../assets/IMGS/woman-writing-on.png';
 import './login.css';
 import Swal from "sweetalert2";
+import {Link} from "react-router-dom";
 
 const Login = () => {
   const {
@@ -86,7 +87,7 @@ const Login = () => {
           </form>
 
           <p className="mt-3 text-center">
-            Sudah punya akun? <a href="/signup" className="text-warning">Daftar</a>
+            Sudah punya akun? <Link to="/signup" className="text-warning">Daftar</Link>
           </p>
         </div>
       </div>

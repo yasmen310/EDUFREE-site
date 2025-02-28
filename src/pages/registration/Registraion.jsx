@@ -3,7 +3,7 @@ import { useForm } from "react-hook-form";
 import "bootstrap/dist/css/bootstrap.min.css";
 import image from "../../assets/IMGS/woman-writing-on-paper-3228878.png";
 import "./style.css";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import Swal from "sweetalert2";
 
 const Registration = () => {
@@ -102,9 +102,9 @@ const Registration = () => {
 
           <p className="mt-3 text-center">
             Sudah punya akun?{" "}
-            <a href="#" className="text-warning">
+            <Link to="/login" className="text-warning">
               Login
-            </a>
+            </Link>
           </p>
         </div>
       </div>
