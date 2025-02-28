@@ -1,0 +1,15 @@
+.footer {
+  background-color: #1C1E53;
+}
+
+.contact-box {
+  background-color: #FCD980;
+  border-radius: 8px;
+  color: black;
+  
+}
+
+.footer-links a {
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}

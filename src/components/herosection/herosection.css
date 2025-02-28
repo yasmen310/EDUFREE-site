@@ -1,0 +1,22 @@
+.hero-section {
+  background-color: #1C1E53;
+  min-height: 80vh;
+  display: flex;
+}
+
+.hero-image {
+  max-width: 90%;
+  height: auto;
+}
+
+.highlight {
+  color: #FCD980;
+}
+.btn-link {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.btn-link:hover {
+  text-decoration: underline;
+}

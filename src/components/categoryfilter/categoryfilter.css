@@ -1,0 +1,7 @@
+.allblog-input{
+  color: black !important; 
+}
+.allblog-input::placeholder {
+  color: black !important; 
+  opacity: 1;
+}

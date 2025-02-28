@@ -1,0 +1,46 @@
+{
+  "stats": [
+    { "id": 1, "value": "21.000+", "label": "Siswa terdaftar" },
+    { "id": 2, "value": "100+", "label": "Instruktur Ahli" },
+    { "id": 3, "value": "150+", "label": "Kursus Gratis" }
+  ],
+  "partners": [
+    { "id": 1, "name": "LOREM", "icon": "fa-book" },
+    { "id": 2, "name": "DITLANCE", "icon": "fa-users" },
+    { "id": 3, "name": "OWTHEST", "icon": "fa-box" },
+    { "id": 4, "name": "NEOVASI", "icon": "fa-hourglass-half" },
+    { "id": 5, "name": "ONAGO", "icon": "fa-bolt" }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "title": "Dasar Pemrograman WEB",
+      "description": "Materi pembelajaran mengenai pembuatan website tingkat pemula",
+      "image": "../src/assets/IMGS/unsplash_m_HRfLhgABo.png",
+      "duration": "4.5 Jam",
+      "videos": 20,
+      "students": 1900,
+      "rating": 4.3
+    },
+    {
+      "id": 2,
+      "title": "Digital Marketing 101",
+      "description": "Materi mengenai strategi dan konsep marketing pemula",
+      "image": "../src/assets/IMGS/pexels-lukas-590016 1.png",
+      "duration": "6.2 Jam",
+      "videos": 32,
+      "students": 930,
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "title": "Data Science Dasar",
+      "description": "Materi pembelajaran mengenai dasar-dasar data science",
+      "image": "../src/assets/IMGS/pexels-olya-kobruseva-5561923 1.png",
+      "duration": "8 Jam",
+      "videos": 46,
+      "students": 1043,
+      "rating": 4.9
+    }
+  ]
+}

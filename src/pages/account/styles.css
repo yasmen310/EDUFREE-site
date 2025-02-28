@@ -1,0 +1,15 @@
+.account-bg {
+  background: linear-gradient(135deg,rgb(253, 253, 253),rgb(221, 221, 221));
+  min-height: 100vh;
+}
+
+.glass-card {
+  max-width: 550px;
+  margin: auto;
+  backdrop-filter: blur(10px);
+  background: rgba(105, 98, 98, 0.1);
+  border-radius: 15px;
+  border: 3px solid rgba(255, 255, 255, 0.2);
+  color:#999;
+  text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+}

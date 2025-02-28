@@ -1,0 +1,9 @@
+.containerPage {
+  height: 100vh; 
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.containerPage::-webkit-scrollbar {
+  display: none; 
+}
